@@ -1,4 +1,4 @@
-package entity.enums;
+package ru.borisov.instazoo.entity.enums;
 
 public enum ERole {
     ROLE_USER,
